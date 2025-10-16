@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a student at University Grenoble Alpes, I blend a solid academic foundation with a genuine passion for digital innovation, proactively refining my proficiency in Unity, BabylonJS, and Blender to reinforce my drive in game development and 3D graphics. With hands-on experience in Unity game development and practical skills in Python, JavaScript, C, and Java, I deploy these tools to build solutions that meet today’s industry demands. My focus is on crafting immersive and scalable digital experiences by marrying technical expertise with creative problem-solving.
+As a student at University Toulouse Paul Sabatier, I blend a solid academic foundation with a genuine passion for digital innovation, proactively refining my proficiency in Unity, BabylonJS, and Blender to reinforce my drive in game development and 3D graphics. With hands-on experience in Unity game development and practical skills in Python, JavaScript, C, and Java, I deploy these tools to build solutions that meet today’s industry demands. My focus is on crafting immersive and scalable digital experiences by marrying technical expertise with creative problem-solving.
 
 
 # 💻 Tech:
