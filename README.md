@@ -1,6 +1,6 @@
 # Hi, I'm Chu Hoang Anh Nguyen
 
-I'm a Computer Science student with a systems and programming background, preparing for an M1 in Cybersecurity at CNAM Occitanie from 2026 to 2028.
+I'm a Computer Science student with a systems and programming background, preparing for an M1 in Cybersecurity.
 
 I am looking for a cybersecurity apprenticeship starting in September 2026, with a rhythm of 1 week in training and 3 weeks in company.
 
